@@ -1,5 +1,4 @@
-import { Meal } from '../types';
-import { MealDetail} from "../types";
+import { Meal , MealDetail } from '../types';
 
 const BASE_URL = 'https://www.themealdb.com/api/json/v1/1';
 
