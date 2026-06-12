@@ -27,3 +27,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Not completed (Bonus)
 
 1. [ ] Video Integration: Link a video tutorial/walkthrough to each recipe.
+
+## Difficulty
+
+1. Understand Redux provider
+
+2. React components 
